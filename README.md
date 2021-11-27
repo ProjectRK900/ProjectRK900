@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProjectRK900
-- 👀 I’m interested in С#, C++, SQL, Python
+- 👀 I’m interested in С#, C++, SQL, Python, Java
 - 🌱 I’m currently learning the main programming languages
 - 💞️ I’m looking to collaborate on *data are deleted*
 - 📫 How to reach me in Discord: ProjectRK#4887
