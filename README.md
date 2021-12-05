@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the main programming languages
 - 💞️ I’m looking to collaborate on *data are deleted*
 - 📫 How to reach me in Discord: ProjectRK#4887
+- ✨ Languages: English, Russian
 
 <!---
 ProjectRK900/ProjectRK900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
